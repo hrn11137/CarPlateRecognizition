@@ -20,7 +20,7 @@
 
 ### 文字识别
 
- ![网络解析（一）：LeNet-5详解](pic/lenet.jpg) 
+ ![LeNet-5网络结构](pic/lenet.jpg) 
 
 
 
