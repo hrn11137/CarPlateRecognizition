@@ -31,7 +31,7 @@
 源码和数据位于src文件夹中，src文件夹中各个子文件功能如下：
 
 * characterData：内含有所有简体中文车牌包含的字符图片数据集（包括省份汉字、字母、数字）
-* singledigit：空文件夹，用于存储提取出的单个字符图片
+* singledigit：(请自己创建该空文件夹），用于存储提取出的单个字符图片
 * Car.jpg：示例图片，可以用来测试模型识别效果
 * getplate.py：车牌定位、字符分割源码
 * main.py：模型训练，字符识别源码
@@ -40,7 +40,9 @@
 
 ### <span id="run">运行</span>
 
-* clone到本地后，先运行getplate.py
+* clone到本地
+* 在src文件夹下添加空文件夹，名为 singledigit
+* 先运行getplate.py
 * 再运行main.py，控制台输出结果
 
 
