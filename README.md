@@ -20,7 +20,7 @@
 
 ### 文字识别
 
- ![网络解析（一）：LeNet-5详解](https://cuijiahua.com/wp-content/uploads/2018/01/dl_3_4.jpg) 
+ ![网络解析（一）：LeNet-5详解](pic/lenet.jpg) 
 
 
 
